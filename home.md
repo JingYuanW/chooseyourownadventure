@@ -2,5 +2,5 @@
 
 ![Image](link)
 
-### [AI](ai.md)  
-### [No AI](noai.md)
+### [AI](1st/ai.md)  
+### [No AI](1st/noai.md)
