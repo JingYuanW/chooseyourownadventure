@@ -5,3 +5,6 @@
 
 [Delivery](../end/DD.md)  
 [Info Gathering](../end/IG.md)  
+
+[Back to home](../home.md)  
+[Back Once](../1st/noai.md)  
