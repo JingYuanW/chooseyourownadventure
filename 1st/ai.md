@@ -1,6 +1,6 @@
 ## What parts does your robot have?
 
-![Image](link)
+![Image](https://specials-images.forbesimg.com/imageserve/1138781799/960x0.jpg?fit=scale)
 --------------
 [Propellers](../2nd/aifly.md)  
 [Wheels/Limbs](../2nd/ailimbs.md)  

@@ -1,6 +1,6 @@
 ## What parts does your robot have?
 
-![Image](link)
+![Image](https://cdn4.explainthatstuff.com/hawkeye-eight-blade-propeller.jpg)
 --------------
 [Propellers](../2nd/noaifly.md)  
 [Wheels/Limbs](../2nd/noailimbs.md)  

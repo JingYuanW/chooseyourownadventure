@@ -1,6 +1,6 @@
 ## Your robot are able to fly but no AI, what you you want it to do?
 
-![Image](???)
+![Image](https://hackernoon.com/hn-images/1*6Da9jqVrnGsxWilCOBoejg.jpeg)
 --------------
 
 [Delivery](../end/DD.md)  
